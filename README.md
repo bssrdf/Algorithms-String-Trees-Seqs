@@ -1,2 +1,2 @@
-### Python implmentation of algorithms and solution to exercises from Dan Gusfield's Book "Algorithms on Strings, Trees and Sequences"
+### Python implementation of algorithms and solutions to exercises from Dan Gusfield's Book "Algorithms on Strings, Trees and Sequences"
 
