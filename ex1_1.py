@@ -19,7 +19,6 @@ def circular(a, b):
     return False
 
 if __name__ == "__main__":
-
     a = 'defabc'
     b = 'abcdef'
     print(circular(a,b))
