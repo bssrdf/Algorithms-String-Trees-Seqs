@@ -97,7 +97,7 @@ if __name__ == "__main__":
     #b = ['a']*2 + ['c']*3 + ['t']*3 + ['g']*5
     # print('XXX', Counter(x[600000:601000]))
     start = timer()
-    # sol1 = findAllSubstringsLengthNBF(x,b)    
+    sol1 = findAllSubstringsLengthNBF(x,b)    
     end = timer()
     print(timedelta(seconds=end-start))
     
